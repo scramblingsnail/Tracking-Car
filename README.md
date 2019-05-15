@@ -1,2 +1,2 @@
 # Tracking-Car
-The Gif is in README
+# Results of my graduation project are demonstrated here.
